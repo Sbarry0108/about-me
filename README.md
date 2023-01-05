@@ -4,11 +4,21 @@ For this challenge I wrote the HTML and CSS for a sample professional portfolio 
 
 Site is divided into several sections, including About Me, My Work, and Contact Info.
 I included functioning navigation links at the top of the page to take the user to any of the sections
-I included a link to a PDF of my resume (not current).
-I included a recent photo of myself.
-The projects presented in the My Work section include a couple of sample programs I have worked on for the bootcamp as well as some placeholder applications that will be added to as I complete more applications in the bootcamp and on my own.
+I included a link to a PDF of my resume.
+I also included a recent photo of myself.
 The non-placholder applications will take the user to the deployed application on my GitHub when clicked on.
 The page was styled for multiple screen sizes, including tablets and mobile phones.
-I also included some on hover effects for the various links and the projects on the page.
+
+![image](https://user-images.githubusercontent.com/113872487/210690020-39336cb1-ab43-4c86-9ff4-9a493d661b46.png)
 
 
+Links: 
+https://github.com/Sbarry0108/challenge2
+
+https://sbarry0108.github.io/challenge2/
+
+project1 Link:
+
+https://coltonto.github.io/PetFriends/
+
+https://github.com/ColtonTO/PetFriendsLinks
