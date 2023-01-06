@@ -17,8 +17,3 @@ https://github.com/Sbarry0108/challenge2
 
 https://sbarry0108.github.io/challenge2/
 
-project1 Link:
-
-https://coltonto.github.io/PetFriends/
-
-https://github.com/ColtonTO/PetFriendsLinks
